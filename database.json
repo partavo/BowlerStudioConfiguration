@@ -14,6 +14,10 @@
     "https://github.com/partavo/javaCad_partavo.git:javaCad.groovy": [
       "https://github.com/partavo/javaCad_partavo.git",
       "javaCad.groovy"
+    ],
+    "https://github.com/partavo/item1.git:item1.groovy": [
+      "https://github.com/partavo/item1.git",
+      "item1.groovy"
     ]
   },
   "BowlerStudioConfigs": {
